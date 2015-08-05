@@ -4,9 +4,9 @@ Fairly Random Selector
 
 Generate random, same and fair selection on several computers. 
 
-## Goal
+### Goal
 
-## Assumptions
+### Assumptions
 
-## Realization
+### Model
 
